@@ -1,0 +1,9 @@
+{
+  "extends": "solium:recommended",
+  "plugins": ["security"],
+  "rules": {
+    "quotes": ["error", "double"],
+    "indent": ["warn", 2],
+    "separate-by-one-line-in-contract": "false"
+  }
+}

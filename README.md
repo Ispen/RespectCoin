@@ -1,10 +1,19 @@
 # RespectCoin
 Simple ERC20 token, based on OpenZeppelin code.
 
-Contract address
+### Important info
+Name: RespectCoin  
+Symbol: RSP  
+Initial supply: 21000000
+Decimals: 18  
+   
+#### Ethereum contract address
 ```
 0x6ac4bc945d17968d30c0463df7ff445241301048
 ```
+[Click for QR](./ContractQR.png)
+
+---
 ABI
 ```
 [
